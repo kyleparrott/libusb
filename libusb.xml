@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type='text/xsl' href='interface.xsl'?>
-<interface uri="https://raw.githubusercontent.com/kyleparrott/libusb1.0.0/master/libusb.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="https://raw.githubusercontent.com/kyleparrott/libusb/master/libusb.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
     <name>libusb</name>
     <summary>libusb</summary>
     <group arch="MacOSX-*">
@@ -12,21 +12,21 @@
         </implementation>
     </group>
     <group arch="Linux-*">
-        <implementation id="sha1=0c73833cc969be1f6f2e3b86a01bbe10" version="0.1.4">
+        <implementation id="sha1=70e139eb305e2fbaa662884bf25646f5648aca06" version="0.1.4">
             <archive href="https://raw.githubusercontent.com/kyleparrott/libusb/master/libusb-1.0.so.0.zip" size="45829"/>
         </implementation>
     </group>
 </interface>
 <!-- Base64 Signature
-iQIcBAABCgAGBQJX9pREAAoJEJzS+Pb4kyScTIoP/24Hr/QhdO107q90Xb8deYF4mC0nXfy/Vyif
-hCuwTLSxX6V6HctSxI/6azRrPOES99T4XzLctqqwzp+kPiU9gCqEQfGMhA2S5RCBGPVex61ySBOH
-Zjig6ni5+jDUwhgQpOXwAq9BQjUzKtTWAHeOnjf0UFYvMEmVkivA3oTZ+nRpKY7N/EFlEyVjpOre
-z5Vy061DT0QU+R7wDAhFMiwnxrcZW9Eh8FXCc6M6d7Z3YIAiHvLu5jTcWG4ov0gAInS787PL4v0I
-getI/NZG9L0l7g56TJ030bgfb3MNDSnq0O2zJa42FkQiojse7njDNEBreapClgfKKGbZUNtZaxsa
-mU1zWIDvNxXIUjEsmJ4D06pW4zizhaWXdvIe81jGg9v6gSOtPka2IJ6shWMyHbGPX7fglIuMIj/I
-D7SVbNNuuo3XfOq73KawTRU+yJQe0VZZAKJ9U/uhFzBLb0CNtSDy+N9MjPvXuc9NdvD3NfHueVPe
-RXZHhaIfpZ9W1CQWaz1zXzxClKJW6pddAHZuGEZlSt4JgaYad+p4VKkjhPZHLtQHDwj6InlSxV5y
-4AlGSNdI0A2PlSeBHaLDKfdGQtsNSBXXaGnKnpgeoELNC5coxyxQP6/tcmdUvoAk2ZpDg7suxX01
-lqyvuB5bdsfnuUwqVFY7pVFZ6dBA1rRMTePvFeBE
+iQIcBAABCgAGBQJX9p2BAAoJEJzS+Pb4kyScjcYP/0NKDbs9L7cW/aFNKKUtmRFYq8fvMaflINh8
+T3zQIvhOoU5tcDDlYP3yw55rAjfzmec/tpZBDQCi0sMaB9CpTBhNf/YWX6k86IKO9dfpDilWDYSC
+rduYLb6FydZMit1fgj4h2016PVuC/f778vm8XLErwmgyRUJanooWBxLWIxYqDD2g9KadQx1RcngK
+/SUuAA1q7tyzm6lBXBogROqiBmYV5gtYw3cNiaVxngftZ+Acvvgt64xMnjw1Ac7RSb6gKIlEOmnJ
+xau6GVqICqgdOvxgcpcMN+dKWrLvRNug1XA8VuyhTtKg3fU/G2FGAl6MtMr9gqxPEoyrVphwWUfn
+4nPHt0sFtI7qNleyCcbnt+b8OSuokcQFN4c7YlXab4kj1RaiSIlPFA+BBdX4ID79SeJL0YnEG/4T
+UByA52ulM1M2I8WMYuuooToupkfDk91H+vMN13SQzNm5W63N+5JzUUio5un2vWfdU+vAPthNIPed
+hCKwp0O+1pQqb98hpKa6EtfXycXfGItmfpZfNc3WNs7zqujjwZdauNPTvrG6UCvI7n7p/mlir7+p
+7NBWxNxXnxcmRMSIogASpkQ90PAY0o+FVuw6abQAE3BbW0goKjS+G3BaxV6D9ueuGa+rqZ93l6jG
+FEHQYh6ozxMNwScHl8fbrO26NM8rFaSC7JFSsjYN
 
 -->
